@@ -18,4 +18,4 @@ this project is done using only one language that is Java and all its implementa
 ## CopyRights And License
 
 - this project is alowed to be used by all the people and you are not allowed to make changes
--              CopyRight&copy; All RightReserved Encrypt project.
+-  CopyRight &copy; All RightReserved Encrypt project.
