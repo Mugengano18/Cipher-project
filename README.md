@@ -15,7 +15,7 @@ this project is done using only one language that is Java and all its implementa
 - Mugengano Alice
 - and got help from my fellow mates due to there explaitions
 
-## CopyRights And Lincese
+## CopyRights And License
 
 - this project is alowed to be used by all the people and you are not allowed to make changes
 -              CopyRight&copy; All RightReserved Encrypt project.
